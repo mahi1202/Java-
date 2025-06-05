@@ -15,6 +15,7 @@ public class binaryhalfpyra {
                 }
             }
             System.out.println();
+            System.out.println();
         }
     }
 }
