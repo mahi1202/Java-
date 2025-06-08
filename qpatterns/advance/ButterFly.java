@@ -2,17 +2,14 @@ package qpatterns.advance;
 
 import java.util.Scanner;
 
-public class ButterFly
-{
-
-    public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        pattern1(sc.nextInt());
-    }
+public class ButterFly {
 
     //butterfly pattern
 
-    static void pattern1(int n) {
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n= sc.nextInt();
+
 
         //upper half
 
